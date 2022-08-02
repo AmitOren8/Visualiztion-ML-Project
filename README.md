@@ -11,7 +11,7 @@ folders and files list and explanation:
                          
 -- excel_description.pdf - contains explantions about the data cleanning and engineering process in the excel file and the differant visualzitions done in                              execl.
                          
--- 'Campaign Ml' folder - contains jupyter notebooks for running machine learning algorithms and using other python libraries for exploring data about                                 campaign expectance. 
+-- 'Campaign ML' branch - contains jupyter notebooks for running machine learning algorithms and using other python libraries for exploring data about                                 campaign expectance. 
                           Read the description file for more details.
 
 
