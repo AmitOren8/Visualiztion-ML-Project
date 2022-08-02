@@ -7,7 +7,7 @@ Folders and files list and explanation:
 -- dictionary.png - The original data set columns description file downloaded from Kaggle.
 
 -- marketing_data.xlsx - excel file that contains the row data, data after cleaning and engineering and visual data exploration.
-                         Read the description file for more details.
+                         Read the excel_description.pdf file for more details.
                          
 -- excel_description.pdf - contains explantions about the data cleanning and engineering process in the excel file and the differant visualzitions done in                              execl.
                          
