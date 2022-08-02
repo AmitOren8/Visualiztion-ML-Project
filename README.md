@@ -2,7 +2,7 @@
 Exploration and analysis of ifood_df.csv data set.
 Data set downloaded from Kaggle - https://www.kaggle.com/datasets/jackdaoud/marketing-data
 
-folders and files list and explanation:
+branches and files list and explanation:
 
 -- dictionary.png - The original data set columns description file downloaded from Kaggle.
 
