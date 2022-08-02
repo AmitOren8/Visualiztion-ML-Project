@@ -9,6 +9,8 @@ folders and files list and explanation:
 -- marketing_data.xlsx - excel file that contains the row data, data after cleaning and engineering and visual data exploration.
                          Read the description file for more details.
                          
+-- excel_description.pdf - contains explantions about the data cleanning and engineering process in the excel file and the differant visualzitions done in                              execl.
+                         
 -- 'Campaign Ml' folder - contains jupyter notebooks for running machine learning algorithms and using other python libraries for exploring data about                                 campaign expectance. 
                           Read the description file for more details.
 
