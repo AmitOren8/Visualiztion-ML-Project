@@ -1,1 +1,3 @@
-# Campaign Machine Learinning Description
+# Campaign Acceptance Machine Learinning Description
+
+-- **campaign correlation.ipynb** 
