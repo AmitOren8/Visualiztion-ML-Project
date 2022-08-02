@@ -12,7 +12,7 @@ Folders and files list and explanation:
 -- excel_description.pdf - contains explantions about the data cleanning and engineering process in the excel file and the differant visualzitions done in                              execl.
                          
 -- 'Campaign ML' folder - contains jupyter notebooks for running machine learning algorithms and using other python libraries for exploring data about                                 campaign acceptance. 
-                          Read the description file for more details.
+                          Read the README.md file in the folder for more details.
 
 
 
