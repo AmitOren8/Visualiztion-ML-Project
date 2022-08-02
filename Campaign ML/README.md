@@ -2,7 +2,7 @@
 
 -- **campaign correlation.ipynb** - Python script using seaborn heat map to show campaign acceptance correlation.
 
--- **decision tree campaign files** - Python scripts sklearn decision tree algorithm to analysis and predict campaign acceptance in the population.
+-- **decision tree campaign files** - Python scripts sklearn decision tree algorithm to analyze and predict campaign acceptance in the population.
 
 
 *The decision tree algorithm was chosen to analysis and predict campaign acceptance in the population for 1 main reasons:*
