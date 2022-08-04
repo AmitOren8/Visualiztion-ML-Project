@@ -2,7 +2,7 @@
 Exploration and analysis of ifood_df.csv data set.
 Data set downloaded from Kaggle - https://www.kaggle.com/datasets/jackdaoud/marketing-data
 
-## Project goels
+## Project Goels
 - Finding meaningful insights about campaign acceptance in the 5 campaigns conducted by the stakeholders. 
 - Extracting any other usful insights from the data the could help in increasing profits.
 
