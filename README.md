@@ -15,6 +15,9 @@ Data set downloaded from Kaggle - https://www.kaggle.com/datasets/jackdaoud/mark
                          
 -- **'Campaign ML' folder** - Contains jupyter notebooks for running machine learning algorithms and using other python libraries for exploring data about                                 campaign acceptance. 
                                Read the README.md file in the folder for more details.
+                               
+ -- **Project Conclusion and Insights.pdf** - Final insights and conclusions of the project.       
+                        
 
 
 
