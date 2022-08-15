@@ -1,4 +1,4 @@
-# Marketing_Project
+# Visualiztion and ML Project
 Exploration and analysis of ifood_df.csv data set.
 Data set downloaded from Kaggle - https://www.kaggle.com/datasets/jackdaoud/marketing-data
 
